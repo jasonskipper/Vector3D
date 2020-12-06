@@ -1,0 +1,9 @@
+Jason Gilo, William-Andrew Marriott, Michael Skipper  
+
+This program is designed to provide support for vector arithmetic on 3D vectors and JUnit tests to ascertain the functionality of our implementation of 3D vector arithmetic. The Vector3D class is interesting in that it is immutable so there is no way to modify an instance of Vector3D, all of Vector3D's methods return new instances. Initially, Michael was confused in his first implementation of Vector3D about equals method, originally simply comparing two parameters of type double instead of comparing instances of Vector3D, which Jason fixed. 
+
+Michael wrote the original Vector3D class which Jason and William debugged. Then, Jason wrote the Vector3DTest class which Michael and William debugged. William implemented additional testing in the Vector3D class. 
+
+Jason spent about 3 hours on this assignment.    
+William spent about 2.5 hours on this assignment. 
+Michael spent about 2.5 hours on this assignment. 
